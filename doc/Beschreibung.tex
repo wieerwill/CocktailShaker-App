@@ -1,0 +1,81 @@
+\documentclass[a4paper, 10pt]{article}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage{calc}
+\usepackage{amsmath,amsthm,amsfonts,amssymb}
+\usepackage{color,graphicx,overpic}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage[margin=2cm]{geometry}
+
+\setlength{\columnsep}{1cm}
+\setlength{\columnseprule}{.1pt}
+\def\columnseprulecolor{\color{black}}
+
+\pdfinfo{
+    /Title (CocktailShaker App)
+    /Creator (TeX)
+    /Producer (pdfTeX 3.14)
+    /Author (Robert Jeutter)
+    /Subject ()
+}
+\pagestyle{empty}
+\setcounter{secnumdepth}{0}
+
+\begin{document}
+\section*{\centering CocktailShaker App}
+
+\vspace{\baselineskip}
+\begin{center}
+    Projekt zur Vorlesung ,,Content Verwertungsmodelle''\\
+    TU Ilmenau, Fakultät Informatik und Automatisierung \\
+    von Robert Jeutter
+\end{center}
+\bigskip
+
+\begin{multicols}{2}
+
+    \section{Funktion}
+    Die \textit{CocktailShaker} App ermöglicht es, schnell und einfach neue Cocktailrezepte auszuprobieren und deine persönlichen Lieblingscocktails bei dir zu behalten.
+    Mit 80 Cocktails von Beginn an, kommen mit der \href{https://www.thecocktaildb.com/}{CocktailDB} immer neue zufällige Cocktails dazu. Mix dich durch den Shaker und lasse die zufällige Cocktails anzeigen oder sieh in deiner Cocktailliste, welche Favouriten du schon Abgelichtet hast.
+    Jeder Cocktail wird mit Namen, Glas, alle nötigen Zutaten mit Mengenangabe und der Anleitung zum Mischen übersichtlich dargestellt.
+
+    \section{Platform}
+    \textit{CocktailShaker} ist eine hybride App die nativ kompiliert werden kann, aufgebaut mit den folgenden Bibiliotheken:
+    \href{https://github.com/ionic-team/ionic}{Ionic Framework} ist ein Open-Source-UI-Toolkit für die Erstellung von performanten, qualitativ hochwertigen mobilen und Desktop-Apps mit Web-Technologien - HTML, CSS und JavaScript - mit Integrationen für Vue. Mit \href{https://github.com/vuejs/vue}{Vue} wird ein vielseitiges und anpassbares Ökosystem für leistungsstarke und rasend schnelle Applikationen implementiert.\\
+    \href{https://github.com/ionic-team/capacitor}{Capacitor} ist eine plattformübergreifende native Laufzeitumgebung, die es einfach macht, moderne Web-Apps zu erstellen, die nativ auf iOS, Android und im Web laufen. Es bietet einen modernen nativen Container-Ansatz für die Web-first entwickelung, ohne auf den vollen Zugriff auf native SDKs zu verzichten, wenn 
+    diese benötigt werden.
+
+    Um Cocktails anzuzeigen kann man über den Tab ,,Shake'' den angezeigten ,,Shake'' Knopf drücken. Die Funktion wählt daraufhin einen zufälligen Cocktail und ruft zufällig auch neue Cocktails aus der Datenbank ab. Eine Cocktaildatei enthält den Namen, ein Cocktailbild oder das zugehörige Glas, sowie die Zutatenliste und Mixanleitung an. Falls gegeben wird dazu auch angezeigt, wie der Cocktail garniert werden kann.
+    Jeder Cocktail, der über die Zufallsfunktion aufgerufen wird, kann auch Fotografiert werden. Wird der Cocktail über die Cocktailliste aufgerufen geht dies nicht um einen internen Wettbewerb zu ermöglichen. 
+    Im Smarthphone gespeicherte Cocktails können Favourisiert, editiert und gelöscht werden. Neue Cocktails können selbst auch hinzugefügt werden.
+    Über eine eigene Seite kann der API Key für die CocktailDB geändert und validiert werden.
+
+    \columnbreak
+
+    \section{typische Nutzer}
+    \textbf{Ben (18)}: Abiturient, darf endlich Alkohol konsumieren und will sich gleich durchprobieren um seine Lieblingscocktails zu finden. Die \textit{CocktailShaker} App zeigt ihm schnell und ohne Mühe alle nötigen Zutaten und Rezepte.
+    \bigskip
+
+    \noindent\textbf{Marianne (24)}: Studentin für angewandte Medientechnologien, ist oft in den Clubs zu besuch und konnte sich noch nie so einfach für einen Cocktail entscheiden, die \textit{CocktailShaker} App nimmt ihr die schwere Entscheidung ab
+    \bigskip
+
+    \noindent\textbf{Harald (45)}: selbstständiger Immobilienmakler, hat sich seine Heimbar über Jahre aufgebaut. Die \textit{Cocktailshaker} App zeigt ihm immer wieder neue Cocktails die er ausprobieren kann ohne dass Langeweile aufkommt.
+
+        \begin{center}
+    \includegraphics[width=50px]{icon.png}
+        \end{center}
+
+    \section{User Storys}
+    ,,Als \textbf{junger Nutzer} bin ich schnell mit der Bedienung und der Fülle an Rezepten überfordert, die App muss also leicht zu bedienen sein.''
+    \bigskip
+
+    \noindent ,,Als \textbf{Langzeitstudent} kenne ich schon viele Cocktails und brauche eine App die mir viele verschiedene Rezepte zeigen kann.''
+    \bigskip
+
+    \noindent ,,Als \textbf{Clubmitglied} bin ich meist schon leicht betrunken wenn ich einen Cocktail mixe, deshalb muss mir die App alle Informationen möglichst einfach und linear anzeigen damit ich mit nichts durcheinander komme.''
+
+\end{multicols}
+\end{document}
