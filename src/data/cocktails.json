@@ -1,0 +1,2104 @@
+[{
+        "author": "International Bartenders Association",
+        "name": "Vesper",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 0.75,
+                "ingredient": "Lillet Blonde"
+            }
+        ],
+        "garnish": "Lemon twist",
+        "directions": "Shake and strain into a chilled cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Bacardi",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "White rum",
+                "label": "Bacardi White Rum"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Lime juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Syrup",
+                "label": "Grenadine"
+            }
+        ],
+        "directions": "Shake with ice cubes. Strain into chilled cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Negroni",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Campari"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Vermouth",
+                "label": "Sweet red vermouth"
+            }
+        ],
+        "garnish": "Half an orange slice",
+        "directions": "Build into old-fashioned glass filled with ice. Stir gently."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Rose",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Kirsch"
+            },
+            {
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "Vermouth",
+                "label": "Dry vermouth"
+            },
+            {
+                "amount": 3,
+                "unit": "Dash",
+                "ingredient": "Syrup",
+                "label": "Strawberry syrup"
+            }
+        ],
+        "directions": "Stir all ingredients with ice and strain into a cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Old Fashioned",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Whiskey",
+                "label": "Bourbon or rye whiskey"
+            },
+            {
+                "ingredient": "Angostura bitters",
+                "amount": 2,
+                "unit": "Dash"
+            },
+            {
+                "ingredient": "Sugar",
+                "amount": 1,
+                "label": "Sugar cube"
+            },
+            {
+                "special": "Few Dashes plain water"
+            }
+        ],
+        "garnish": "Orange slice and cherry",
+        "directions": "Place sugar cube in old-fashioned glass and saturate with bitters, add a Dash of plain water. Muddle until dissolve. Fill the glass with ice cubes and add whisky."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Tuxedo",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Gin",
+                "label": "Old Tom Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Vermouth",
+                "label": "Dry vermouth"
+            },
+            {
+                "amount": 0.25,
+                "unit": "Barspoon",
+                "ingredient": "Absinthe"
+            },
+            {
+                "amount": 0.5,
+                "unit": "Barspoon",
+                "ingredient": "Cherry liqueur",
+                "label": "Maraschino"
+            },
+            {
+                "amount": 3,
+                "unit": "Dash",
+                "ingredient": "Orange bitters"
+            }
+        ],
+        "garnish": "Cherry and lemon twist",
+        "directions": "Stir all ingredients with ice and strain into cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Mojito",
+        "glass": "Collins",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "White rum",
+                "label": "White Cuban Rum"
+            },
+            {
+                "ingredient": "Soda water"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Lime juice"
+            },
+            {
+                "ingredient": "Mint",
+                "amount": 6,
+                "label": "Mint sprigs"
+            },
+            {
+                "ingredient": "Sugar",
+                "amount": 2,
+                "unit": "Teaspoons",
+                "label": "White sugar"
+            }
+        ],
+        "garnish": "Mint leaves and lemon slice",
+        "directions": "Muddle mint sprigs with sugar and lime juice. Add Splash of soda water and fill glass with cracked ice. Pour rum and top with soda water. Serve with straw."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Horse's Neck",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "Cognac"
+            },
+            {
+                "unit": "cl",
+                "amount": 12,
+                "ingredient": "Ginger Ale"
+            },
+            {
+                "special": "Dash of Angostura bitters (optional)"
+            }
+        ],
+        "garnish": "Lemon twist",
+        "directions": "Build into highball glass with ice cubes. Stir gently. If required, add Dashes of Angostura bitters."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Planter's Punch",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Dark rum"
+            },
+            {
+                "unit": "cl",
+                "amount": 3.5,
+                "ingredient": "Orange juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 3.5,
+                "ingredient": "Pineapple juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Lemon juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Syrup",
+                "label": "Grenadine"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Syrup",
+                "label": "Sugar syrup"
+            },
+            {
+                "ingredient": "Angostura bitters",
+                "amount": 3,
+                "unit": "Dash"
+            }
+        ],
+        "garnish": "Pineapple slice and a cherry",
+        "directions": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake. Pour into large glass, filled with ice. Add Angostura bitters, “on top”."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Sea Breeze",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 12,
+                "ingredient": "Cranberry juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Grapefruit juice"
+            }
+        ],
+        "garnish": "Lime wedge",
+        "directions": "Build all ingredients in a rock glass filled with ice."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Pisco Sour",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Pisco"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Lemon juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Syrup",
+                "label": "Sugar syrup"
+            },
+            {
+                "ingredient": "Egg white",
+                "amount": 1,
+                "label": "Egg white (small egg)"
+            }
+        ],
+        "directions": "Shake and strain into a chilled champagne flute. Dash some Angostura bitters on top."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Long Island Iced Tea",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Tequila"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "White rum"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Triple Sec"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 2.5,
+                "ingredient": "Lemon juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 3.0,
+                "ingredient": "Syrup",
+                "label": "Gomme syrup"
+            },
+            {
+                "unit": "Dash",
+                "ingredient": "Cola",
+                "amount": 1
+            }
+        ],
+        "garnish": "Lemon twist",
+        "directions": "Add all ingredients into highball glass filled with ice. Stir gently. Serve with straw."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Clover Club",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Raspberry syrup"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Lemon juice"
+            },
+            {
+                "ingredient": "Egg white",
+                "label": "Few drops of Egg White"
+            }
+        ],
+        "directions": "Shake with ice cubes. Strain into cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Angel Face",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Apricot brandy"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Calvados"
+            }
+        ],
+        "directions": "Shake with ice cubes. Strain into a cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Mimosa",
+        "glass": "ChampagneFlute",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 7.5,
+                "ingredient": "Champagne"
+            },
+            {
+                "unit": "cl",
+                "amount": 7.5,
+                "ingredient": "Orange juice"
+            }
+        ],
+        "garnish": "Optional orange twist",
+        "directions": "Pour orange juice into flute and gently pour Champagne. Stir gently. Note: Buck's Fizz is a very similar cocktail but made of two parts champagne to one part orange juice."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Whiskey Sour",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Whiskey",
+                "label": "Bourbon whiskey"
+            },
+            {
+                "unit": "cl",
+                "amount": 3.0,
+                "ingredient": "Lemon juice"
+            },
+            {
+                "ingredient": "Egg white",
+                "label": "Dash of egg white"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Syrup",
+                "label": "Sugar syrup"
+            }
+        ],
+        "garnish": "Half an orange slice and cherry",
+        "directions": "(Optional: if used shake little harder to foam up the egg white). Pour all ingredients into cocktail shaker filled with ice. Shake. Strain into cocktail glass. If served ‘On the rocks’, strain ingredients into old-fashioned glass filled with ice."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Screwdriver",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 5,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 10,
+                "ingredient": "Orange juice"
+            }
+        ],
+        "garnish": "Orange slice",
+        "directions": "Build into a highball glass filled with ice. Stir gently."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Cuba Libre",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 5,
+                "ingredient": "White rum"
+            },
+            {
+                "unit": "cl",
+                "amount": 12,
+                "ingredient": "Cola"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Lime juice"
+            }
+        ],
+        "garnish": "Lime wedge",
+        "directions": "Build all ingredients in a highball glass filled with ice."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Manhattan",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 5,
+                "ingredient": "Whiskey",
+                "label": "Rye whiskey"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Vermouth",
+                "label": "Red vermouth"
+            },
+            {
+                "unit": "Dash",
+                "ingredient": "Angostura bitters",
+                "amount": 1
+            }
+        ],
+        "garnish": "Cherry",
+        "directions": "Stir in mixing glass with ice cubes. Strain into chilled cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Porto Flip",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Cognac"
+            },
+            {
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Red Port"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Egg yolk"
+            }
+        ],
+        "directions": "Shake with ice cubes. Strain into cocktail glass. Sprinkle with fresh ground nutmeg."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Gin Fizz",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Lemon juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Syrup",
+                "label": "Sugar syrup"
+            },
+            {
+                "unit": "cl",
+                "amount": 8,
+                "ingredient": "Soda water"
+            }
+        ],
+        "garnish": "Lemon slice",
+        "directions": "Shake all ingredients with ice cubes, except soda water. Pour into tumbler. Top with soda water."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Espresso Martini",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 5,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Coffee liqueur",
+                "label": "Kahlúa"
+            },
+            {
+                "ingredient": "Coffee",
+                "amount": 1,
+                "unit": "Shot",
+                "label": "Espresso coffee"
+            },
+            {
+                "label": "Sugar syrup",
+                "ingredient": "Syrup",
+                "amount": 1,
+                "unit": "Dash"
+            }
+        ],
+        "directions": "Shake and strain into a chilled cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Margarita",
+        "glass": "Margarita",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3.5,
+                "ingredient": "Tequila"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Triple Sec",
+                "label": "Cointreau"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Lime juice"
+            }
+        ],
+        "directions": "Shake with ice cubes. Strain into cocktail glass rimmed with salt (note:Fruit Margarita - blend selected fruit with the above recipe)."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "French 75",
+        "glass": "ChampagneTulip",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Lemon juice"
+            },
+            {
+                "ingredient": "Syrup",
+                "amount": 2,
+                "unit": "Dash",
+                "label": "Sugar syrup"
+            },
+            {
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "Champagne"
+            }
+        ],
+        "directions": "Shake with ice cubes, except for champagne. Strain into a champagne flute. Top up with champagne. Stir gently."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Yellow Bird",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "White rum"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Galliano"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Triple Sec"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Lime juice"
+            }
+        ],
+        "directions": "Shake and strain into a chilled cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Pina Colada",
+        "glass": "Hurricane",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "White rum"
+            },
+            {
+                "unit": "cl",
+                "amount": 9,
+                "ingredient": "Pineapple juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Coconut milk"
+            }
+        ],
+        "garnish": "Pineapple slice and a cherry",
+        "directions": "Blend all the ingredients with ice in a electric blender, pour into a large goblet or Hurricane glass and serve with straws."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Aviation",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Cherry liqueur",
+                "label": "Maraschino"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Lemon juice"
+            },
+            {
+                "amount": 1,
+                "unit": "Shot",
+                "ingredient": "Crème de violette"
+            }
+        ],
+        "directions": "Shake and strain into a chilled cocktail glass. The IBA recipe omits the commonly included crème de violette which gives the drink a distinctive purple color."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Bellini",
+        "glass": "ChampagneFlute",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 10,
+                "ingredient": "Prosecco"
+            },
+            {
+                "unit": "cl",
+                "amount": 5,
+                "ingredient": "Peach puree"
+            }
+        ],
+        "directions": "Pour peach puree into chilled glass and add sparkling wine. Stir gently. Variations: Puccini (fresh mandarin juice), Rossini (fresh strawberry puree), Tintoretto (fresh pomegranate juice)"
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Grasshopper",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Créme de Cacao",
+                "label": "White Créme de Cacao"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Créme de Menthe",
+                "label": "Green Créme de Menthe"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Cream"
+            }
+        ],
+        "directions": "Shake with ice cubes. Strain into chilled cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Tequila Sunrise",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Tequila"
+            },
+            {
+                "unit": "cl",
+                "amount": 9,
+                "ingredient": "Orange juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Syrup",
+                "label": "Grenadine"
+            }
+        ],
+        "garnish": "Orange slice and a cherry",
+        "directions": "Build tequila and orange juice into highball with ice cubes. Add a Splash of grenadine to create sunrise effect. Do not stir."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Daiquiri",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "White rum"
+            },
+            {
+                "unit": "cl",
+                "amount": 2.5,
+                "ingredient": "Lime juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Syrup",
+                "label": "Simple syrup"
+            }
+        ],
+        "directions": "Shake and strain into a cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Rusty Nail",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Whiskey",
+                "label": "Scotch whisky"
+            },
+            {
+                "unit": "cl",
+                "amount": 2.5,
+                "ingredient": "Drambuie"
+            }
+        ],
+        "garnish": "Lemon twist",
+        "directions": "Build into old-fashioned glass filled with ice. Stir gently."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "B-52",
+        "glass": "Shot",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Coffee liqueur",
+                "label": "Kahlúa"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Cream liqueur",
+                "label": "Baileys Irish Cream"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Triple Sec",
+                "label": "Grand Marnier"
+            }
+        ],
+        "directions": "Layer ingredients one at a time starting with Kahlúa, followed by Baileys Irish Cream and top with Grand Marnier. Flame the Grand Marnier, serve while the flame is still on, accompanied with a straw on side plate."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Stinger",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 5,
+                "ingredient": "Cognac"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Créme de Menthe",
+                "label": "White Créme de Menthe"
+            }
+        ],
+        "directions": "Stir in mixing glass with ice cubes. Strain into a cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Golden Dream",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Galliano"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Triple Sec"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Orange juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Cream"
+            }
+        ],
+        "directions": "Shake with ice cubes. Strain into chilled cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Godmother",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3.5,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 3.5,
+                "ingredient": "DiSaronno"
+            }
+        ],
+        "directions": "Build into old fashioned glass filled with ice cubes. Stir gently."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Spritz Veneziano",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "Prosecco"
+            },
+            {
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "Aperol"
+            },
+            {
+                "amount": 1,
+                "unit": "Splash",
+                "ingredient": "Soda water"
+            }
+        ],
+        "garnish": "Half an orange slice",
+        "directions": "Build into an old-fashioned glass filled with ice. Top with a Splash of soda water."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Bramble",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Lemon juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Syrup",
+                "label": "Sugar syrup"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Blackberry liqueur"
+            }
+        ],
+        "garnish": "Lemon slice and two blackberries",
+        "directions": "Build over crushed ice, in a rock glass. Stir, then pour the blackberry liqueur over the top of the drink in a circular fashion."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Brandy Alexander",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Cognac"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Créme de Cacao",
+                "label": "Brown Créme de Cacao"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Cream"
+            }
+        ],
+        "directions": "Shake and strain into a chilled cocktail glass. Sprinkle with fresh ground nutmeg. The IBA simply refers to this drink as an 'Alexander'"
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Lemon Drop",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 2.5,
+                "ingredient": "Citron Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Triple Sec"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Lemon juice"
+            }
+        ],
+        "garnish": "Lemon slice",
+        "directions": "Shake and strain into a chilled cocktail glass rimmed with sugar."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "French Martini",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Raspberry liqueur"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Pineapple juice"
+            }
+        ],
+        "directions": "Stir in mixing glass with ice cubes. Strain into chilled cocktail glass. Squeeze oil from lemon peel onto the drink."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Black Russian",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 5,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Coffee liqueur"
+            }
+        ],
+        "directions": "Build into old fashioned glass filled with ice cubes. Stir gently. Note: for White Russian, float fresh cream on the top and stir gently."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Bloody Mary",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 9,
+                "ingredient": "Tomato juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Lemon juice"
+            },
+            {
+                "amount": 2,
+                "unit": "Dash",
+                "ingredient": "Worcestershire Sauce"
+            },
+            {
+                "special": "Tabasco"
+            },
+            {
+                "special": "Celery salt"
+            },
+            {
+                "special": "Pepper"
+            }
+        ],
+        "garnish": "Celery and optionally lemon wedge",
+        "directions": "Stir gently, pour all ingredients into highball glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Mai Tai",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "White rum"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Dark rum"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Triple Sec",
+                "label": "Orange Curaçao"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Syrup",
+                "label": "Orgeat syrup"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Lime juice"
+            }
+        ],
+        "garnish": "Pineapple spear, mint leaves and lime wedge",
+        "directions": "Shake and strain into highball glass. Serve with straw."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Barracuda",
+        "glass": "Margarita",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Dark rum",
+                "label": "Gold rum"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Galliano"
+            },
+            {
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "Pineapple juice"
+            },
+            {
+                "unit": "Dash",
+                "amount": 1,
+                "ingredient": "Lime juice"
+            },
+            {
+                "ingredient": "Sparkling Wine",
+                "label": "Prosecco",
+                "amount": 1,
+                "unit": "Dash"
+            }
+        ]
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Sex on the Beach",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Peach schnapps"
+            },
+            {
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "Cranberry juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "Orange juice"
+            }
+        ],
+        "garnish": "Orange slice",
+        "directions": "Build all ingredients in a highball glass filled with ice."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Monkey Gland",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 5,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Orange juice"
+            },
+            {
+                "amount": 2,
+                "unit": "Dash",
+                "ingredient": "Absinthe"
+            },
+            {
+                "amount": 2,
+                "unit": "Dash",
+                "ingredient": "Syrup",
+                "label": "Grenadine"
+            }
+        ],
+        "directions": "Shake and strain into a chilled cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Derby",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "drops",
+                "amount": 2,
+                "ingredient": "Peach bitters"
+            },
+            {
+                "amount": 2,
+                "ingredient": "Mint",
+                "label": "Fresh mint leaves"
+            }
+        ],
+        "garnish": "Mint leaves",
+        "directions": "Stir in mixing glass with ice cubes. Strain into a cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Sidecar",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 5,
+                "ingredient": "Cognac"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Triple Sec"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Lemon juice"
+            }
+        ],
+        "directions": "Shake with ice cubes. Strain into cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Irish Coffee",
+        "glass": "HotDrink",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "Whiskey",
+                "label": "Irish whiskey"
+            },
+            {
+                "unit": "cl",
+                "amount": 9,
+                "ingredient": "Coffee",
+                "label": "Hot coffee"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Cream"
+            },
+            {
+                "ingredient": "Sugar",
+                "label": "Brown sugar",
+                "amount": 1,
+                "unit": "Teaspoon"
+            }
+        ],
+        "directions": "Warm the Irish whiskey over a burner. Pour into the glass (for hot drink) hot coffee, and add a Teaspoon of sugar. Float Cream on top."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Sazerac",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 5,
+                "ingredient": "Cognac"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Absinthe"
+            },
+            {
+                "amount": 2,
+                "unit": "Dash",
+                "ingredient": "Peychaud’s bitters"
+            },
+            {
+                "ingredient": "Sugar",
+                "amount": 1,
+                "label": "Sugar cube"
+            }
+        ],
+        "garnish": "Lemon twist",
+        "directions": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Note: The original recipe changed after the American Civil War, rye whiskey substituted cognac as it became hard to obtain."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Americano",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Campari"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Vermouth",
+                "label": "Red vermouth"
+            },
+            {
+                "amount": 1,
+                "unit": "Splash",
+                "ingredient": "Soda water"
+            }
+        ],
+        "garnish": "Half an orange slice",
+        "directions": "Build into old fashioned glass filled with ice cubes. Add a Splash of soda water."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Singapore Sling",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Cherry liqueur"
+            },
+            {
+                "unit": "cl",
+                "amount": 0.75,
+                "ingredient": "Triple Sec",
+                "label": "Cointreau"
+            },
+            {
+                "unit": "cl",
+                "amount": 0.75,
+                "ingredient": "DOM Bénédictine"
+            },
+            {
+                "unit": "cl",
+                "amount": 12.0,
+                "ingredient": "Pineapple juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Lime juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Syrup",
+                "label": "Grenadine"
+            },
+            {
+                "unit": "Dash",
+                "ingredient": "Angostura bitters",
+                "amount": 1
+            }
+        ],
+        "garnish": "Pineapple slice and a cherry",
+        "directions": "Shake with ice cubes. Strain into highball glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "French Connection",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3.5,
+                "ingredient": "Cognac"
+            },
+            {
+                "unit": "cl",
+                "amount": 3.5,
+                "ingredient": "DiSaronno"
+            }
+        ],
+        "directions": "Build into old fashioned glass filled with ice cubes. Stir gently."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Moscow Mule",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 12,
+                "ingredient": "Ginger beer"
+            },
+            {
+                "unit": "cl",
+                "amount": 0.5,
+                "ingredient": "Lime juice"
+            },
+            {
+                "ingredient": "Lime",
+                "amount": 1,
+                "unit": "Slice"
+            }
+        ],
+        "garnish": "Lime slice",
+        "directions": "Combine the vodka and ginger beer. Add lime juice."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "John Collins",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Lemon juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Syrup",
+                "label": "Sugar syrup"
+            },
+            {
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "Soda water"
+            },
+            {
+                "unit": "Dash",
+                "ingredient": "Angostura bitters",
+                "amount": 1
+            }
+        ],
+        "garnish": "Lemon slice and a cherry",
+        "directions": "Build into highball glass filled with ice. Stir gently. Add a Dash of Angostura bitters. (Note: Use Old Tom Gin for Tom Collins)"
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Kir",
+        "glass": "WhiteWine",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 9,
+                "ingredient": "Dry White Wine"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Créme de Cassis",
+                "label": "Créme de Cassis"
+            }
+        ],
+        "directions": "Pour Créme de Cassis into glass, top up with white wine. For Kir Royal: Use champagne instead of white wine."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Mint Julep",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "Whiskey",
+                "label": "Bourbon whiskey"
+            },
+            {
+                "amount": 4,
+                "ingredient": "Mint",
+                "label": "Fresh mint sprigs"
+            },
+            {
+                "amount": 1,
+                "unit": "Teaspoon",
+                "label": "powdered sugar",
+                "ingredient": "Sugar"
+            },
+            {
+                "unit": "Teaspoon",
+                "amount": 2,
+                "ingredient": "water"
+            }
+        ],
+        "garnish": "Mint sprig",
+        "directions": "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is frost."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Tommy's Margarita",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Tequila"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Lime juice"
+            },
+            {
+                "amount": 2,
+                "unit": "Barspoon",
+                "ingredient": "Agave nectar"
+            }
+        ],
+        "directions": "Shake and strain into a chilled cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Paradise",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3.5,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Apricot brandy"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Orange juice"
+            }
+        ],
+        "directions": "Shake with ice cubes. Strain into chilled cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Dirty Martini",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Vermouth",
+                "label": "Dry vermouth"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Olive juice"
+            }
+        ],
+        "garnish": "Green olive",
+        "directions": "Stir in mixing glass with ice cubes. Strain into chilled martini glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Champagne Cocktail",
+        "glass": "ChampagneFlute",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 9,
+                "ingredient": "Champagne"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Cognac"
+            },
+            {
+                "ingredient": "Angostura bitters",
+                "amount": 2,
+                "unit": "Dash"
+            },
+            {
+                "ingredient": "Sugar",
+                "amount": 1,
+                "label": "Sugar cube"
+            }
+        ],
+        "garnish": "Orange slice and a cherry",
+        "directions": "Add Dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by pouring gently chilled champagne."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Mary Pickford",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "White rum"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Cherry liqueur",
+                "label": "Maraschino"
+            },
+            {
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "Pineapple juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Syrup",
+                "label": "Grenadine"
+            }
+        ],
+        "directions": "Shake and strain into a chilled large cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Hemingway Special",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "White rum"
+            },
+            {
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "Grapefruit juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Cherry liqueur",
+                "label": "Maraschino"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Lime juice"
+            }
+        ],
+        "directions": "Shake with ice cubes. Strain into a double cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Dark 'n' Stormy",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "Dark rum"
+            },
+            {
+                "unit": "cl",
+                "amount": 10,
+                "ingredient": "Ginger beer"
+            }
+        ],
+        "garnish": "Lime wedge",
+        "directions": "Build into highball glass filled with ice. Add rum first and top it with ginger beer."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Ramos Fizz",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Lime juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Lemon juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Syrup",
+                "label": "Sugar syrup"
+            },
+            {
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "Cream"
+            },
+            {
+                "amount": 1,
+                "ingredient": "Egg white"
+            },
+            {
+                "ingredient": "Soda water"
+            },
+            {
+                "amount": 3,
+                "unit": "Dash",
+                "ingredient": "Orange flower water"
+            },
+            {
+                "amount": 2,
+                "unit": "Splash",
+                "ingredient": "Vanilla extract"
+            }
+        ],
+        "directions": "Pour all ingredients (except soda) in a mixing glass, dry shake (no ice) for two minutes, add ice and hard shake for another minute. Strain into a highball glass without ice, top with soda."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Russian Spring Punch",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 2.5,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 2.5,
+                "ingredient": "Lemon juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Créme de Cassis",
+                "label": "Créme de Cassis"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Syrup",
+                "label": "Sugar syrup"
+            },
+            {
+                "ingredient": "Sparkling Wine"
+            }
+        ],
+        "garnish": "Lemon slice and a blackberry",
+        "directions": "Shake the ingredients and pour into highball glass. Top with Sparkling wine."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Godfather",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3.5,
+                "ingredient": "Whiskey",
+                "label": "Scotch whisky"
+            },
+            {
+                "unit": "cl",
+                "amount": 3.5,
+                "ingredient": "DiSaronno"
+            }
+        ],
+        "directions": "Build into old fashioned glass filled with ice cubes. Stir gently."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Cosmopolitan",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "Citron Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Triple Sec",
+                "label": "Cointreau"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Lime juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Cranberry juice"
+            }
+        ],
+        "garnish": "Lime slice",
+        "directions": "Shake with ice cubes. Strain into a large cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Dry Martini",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Vermouth",
+                "label": "Dry vermouth"
+            }
+        ],
+        "directions": "Stir in mixing glass with ice cubes. Strain into chilled martini glass. Squeeze oil from lemon peel onto the drink, or garnish with olive."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Between the Sheets",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "White rum"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Cognac"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Triple Sec"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Lemon juice"
+            }
+        ],
+        "directions": "Shake with ice cubes. Strain into chilled cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Casino",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "Gin",
+                "label": "Old Tom Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Cherry liqueur",
+                "label": "Maraschino"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Orange bitters"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Lemon juice"
+            }
+        ],
+        "garnish": "Lemon twist and a cherry",
+        "directions": "Shake with ice cubes. Strain into chilled cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Caipirinha",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 5,
+                "ingredient": "Cachaca"
+            },
+            {
+                "unit": "Teaspoons",
+                "ingredient": "Sugar",
+                "amount": 2
+            },
+            {
+                "ingredient": "Lime",
+                "amount": 0.5,
+                "label": "Fresh lime cut into 4 wedges"
+            }
+        ],
+        "directions": "Place lime and sugar in old fashion glass and muddle. Fill glass with ice and Cachaca (note:Caipiroska- use Vodka instead of Cachaca)."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Vampiro",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 5,
+                "ingredient": "Tequila",
+                "label": "Silver Tequila"
+            },
+            {
+                "unit": "cl",
+                "amount": 7,
+                "ingredient": "Tomato juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Orange juice"
+            },
+            {
+                "unit": "cl",
+                "amount": 1,
+                "ingredient": "Lime juice"
+            },
+            {
+                "amount": 1,
+                "unit": "Dash",
+                "ingredient": "Worcestershire Sauce"
+            },
+            {
+                "amount": 1,
+                "unit": "Teaspoon",
+                "ingredient": "Honey",
+                "label": "Clear honey"
+            },
+            {
+                "special": "Half slice onion finely chopped"
+            },
+            {
+                "special": "Few slices fresh red hot chili peppers"
+            },
+            {
+                "special": "Salt"
+            }
+        ],
+        "garnish": "Lime wedge and a green or red chili",
+        "directions": "Shake with ice cubes. Strain into a highball glass, filled with ice."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Kamikaze",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Triple Sec"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Lime juice"
+            }
+        ],
+        "directions": "Shake and strain into a chilled cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "White Lady",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Triple Sec"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Lemon juice"
+            }
+        ],
+        "directions": "Shake with ice cubes. Strain into large cocktail glass."
+    },
+    {
+        "author": "International Bartenders Association",
+        "name": "Harvey Wallbanger",
+        "glass": "Highball",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 4.5,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 1.5,
+                "ingredient": "Galliano"
+            },
+            {
+                "unit": "cl",
+                "amount": 9,
+                "ingredient": "Orange juice"
+            }
+        ],
+        "garnish": "Orance slice and a cherry",
+        "directions": "Build vodka and orange juice into a highball glass filled with ice. Stir gently and float Galliano on top."
+    },
+    {
+        "author": "Teijo",
+        "name": "Gimlet",
+        "glass": "Martini",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 6,
+                "ingredient": "Gin"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Lime juice"
+            }
+        ],
+        "garnish": "Lime slice",
+        "directions": "Shake with ice."
+    },
+    {
+        "author": "Teijo",
+        "name": "White Russian",
+        "glass": "OldFashioned",
+        "ingredients": [{
+                "unit": "cl",
+                "amount": 5,
+                "ingredient": "Vodka"
+            },
+            {
+                "unit": "cl",
+                "amount": 2,
+                "ingredient": "Coffee liqueur",
+                "label": "Kahlúa"
+            },
+            {
+                "unit": "cl",
+                "amount": 3,
+                "ingredient": "Cream"
+            }
+        ],
+        "garnish": null,
+        "directions": "Shake and pour over ice."
+    },
+    {
+        "author": "Teijo",
+        "name": "Bluebird",
+        "glass": "Martini",
+        "ingredients": [{
+                "ingredient": "Gin",
+                "unit": "cl",
+                "amount": 4
+            },
+            {
+                "ingredient": "Blue Curaçao",
+                "unit": "cl",
+                "amount": 3
+            },
+            {
+                "ingredient": "Angostura bitters",
+                "amount": 2,
+                "unit": "Dash"
+            }
+        ],
+        "garnish": "Twist of lemon and a cherry",
+        "directions": "Stir with crushed ice and strain. Alternatively you could use half Blue Curaçao and half Triple Sec."
+    }
+]

@@ -1,0 +1,7 @@
+{
+  "name": "cocktailShakerApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
