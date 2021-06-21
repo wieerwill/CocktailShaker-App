@@ -7,6 +7,10 @@ The authors of the project warn about the damage alcohol does and don't take any
 All the cocktail recipes are for information only.
 No food bloggers, bartenders or programmers were harmed in the making of this project.
 
+## Download
+- [Android Release APK](android/app/release/app-release.apk)
+- [Android Debug APK](android/app/build/outputs/apk/debug/app-debug.apk)
+
 ## Contribution
 - the (CocktailDB)[https://www.thecocktaildb.com/] API; you can add your own API Key
 - Cocktails: [International Bartenders Association (Teijo)](https://github.com/teijo/iba-cocktails)
@@ -15,6 +19,7 @@ No food bloggers, bartenders or programmers were harmed in the making of this pr
 - Library for Apps [Ionic](https://github.com/ionic-team/ionic) 
 - JS Framework [Vue](https://github.com/vuejs/vue) 
 - cross-platform compability [Capacitor](https://github.com/ionic-team/capacitor) 
+- Logo made with Ionic [Get started](https://ionicframework.com/start#basics) Tool
 
 ## Develop locally
 1. download the installer](https://nodejs.org/) for Node LTS
@@ -25,33 +30,24 @@ No food bloggers, bartenders or programmers were harmed in the making of this pr
 6. run `ionic serve` in a terminal from the project root
 7. follow the link in the console to view the app in the browser or smartphone
 
-### Deploy
-To deploy everything to a production-ready app, run this command:
-```sh
-ionic build
-```
-This will build and update all files in the `dist/` folder
+### Build & Deploy
+1. To create a current build run `npm run build` or `ionic build`; all files in `/dist` will be created and/or updated
+2. after each building process update your capacitor: `ionic cap copy`
+3. after each big updates or changes in code sync your capacitor: `ionic cap sync`
 
-### Build general
-1. update the Capacitor config after each standard build process: `ionic cap copy`
-2. sync Capacitor builds after each new Plugin or huge code change: `ionic cap sync`
-
-- Android build
-  1. you need [Android SDK](https://developer.android.com/studio/).
-      - the easiest way on a Mac is `homebrew`: `brew install android-sdk`
-      - on Linux you can use the package manager: `sudo apt-get install android-sdk` or via
-      - [Flatpak](https://flathub.org/apps/details/com.google.AndroidStudio) or
-      - [Snap](https://uappexplorer.com/snap/ubuntu/android-studio)
-  2. open the app in your AndroidStudio `ionic cap open android`
-  3. to publish the app you need to [sign](https://developer.android.com/studio/publish/app-signing) it. For local testing, a sample file is available at
-      ```sh
-      cp android/signing/keystore.properties.example
-      ```
-  4. you may need to adjust the value of `storeFile` for your platform
-      ```sh
-      storeFile=~/.android/debug.keystore
-      ```
-- iOS build open in XCode `ionic cap open ios`
+- Web build
+  - already done in `dist/`
+- [Android build](https://ionicframework.com/docs/developing/android)
+  1. [AndroidStudio](https://developer.android.com/studio/) required
+  2. open app in android studio `ionic cap open android`
+  3. update android permissions: `android/app/src/main/AndroidManifest.xml`
+  4. to publish app to appstore add your [signature](https://developer.android.com/studio/publish/app-signing). For local development an example is at `android/signing/keystore.properties.example`
+  5. May adjust your `storeFile` for the correct platform `storeFile=~/.android/debug.keystore`
+- [iOS build](https://ionicframework.com/docs/developing/ios)
+  1. `XCode` on a Mac required
+  2. open app in Xcode `ionic cap open ios`
+  3. update iOS permissions inside Xcode with tab "Info"
+  4. create your apps signature with tab  `Signing & Capabilities`
 
 # License
 The project runs under the [MIT](./LICENSE) licence.
