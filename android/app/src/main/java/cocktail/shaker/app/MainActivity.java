@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package cocktail.shaker.app;
 
 import android.os.Bundle;
 
