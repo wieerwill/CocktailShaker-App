@@ -16,20 +16,20 @@ const routes = [{
                 redirect: '/tabs/Shake'
             },
             {
-                path: 'Shake',
-                component: () => import('@/views/Shake.vue')
-            },
-            {
                 path: 'Shake/:id',
                 component: () => import('@/views/ViewCocktail.vue')
             },
             {
-                path: "New",
-                component: () => import('@/views/NewCocktail.vue')
+                path: 'Shake',
+                component: () => import('@/views/Shake.vue')
             },
             {
                 path: "New/:id",
                 component: () => import('@/views/EditCocktail.vue')
+            },
+            {
+                path: "New",
+                component: () => import('@/views/NewCocktail.vue')
             },
             {
                 path: 'Cocktails',
