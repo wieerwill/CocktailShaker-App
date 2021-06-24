@@ -2,13 +2,13 @@
   <ion-page>
     <ion-header>
       <ion-toolbar>
-        <ion-title>{{ mode }} Cocktail</ion-title>
+        <ion-title>New Cocktail</ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content :fullscreen="true">
       <ion-header collapse="condense">
         <ion-toolbar>
-          <ion-title size="large">{{ mode }} Cocktail</ion-title>
+          <ion-title size="large">New Cocktail</ion-title>
         </ion-toolbar>
       </ion-header>
 
@@ -150,7 +150,6 @@
 
 <script>
 import { useStorage } from "@/composables/useStorage";
-//import router from "@/router";
 import glassJson from "../data/glasses.json";
 import ingredientJson from "../data/ingredients.json";
 import unitJson from "../data/units.json";
@@ -217,7 +216,6 @@ export default {
   },
   data() {
     return {
-      mode: "New", //"Edit"
       cocktail: {
         name: null,
         ingredients: [{ amount: 0, unit: "ml", ingredient: null }],
