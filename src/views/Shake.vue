@@ -22,14 +22,18 @@
           Shake your phone <br />
           to get a Cocktail
         </h1>
-        <ion-button color="success" expand="block" @click="doShake()"
-          >Start shaking</ion-button
-        >
         <ion-img
-          class="image-icon"
-          :src="`${publicPath}img/glasses/Martini.svg`"
+          class="start-icon"
+          :src="`${publicPath}img/icon.png`"
           alt="CocktailShaker"
         ></ion-img>
+        <ion-button
+          size="large"
+          color="success"
+          expand="block"
+          @click="doShake()"
+          >Start shaking</ion-button
+        >
       </div>
 
       <!-- Show cocktail -->
@@ -80,10 +84,28 @@
         <div class="buttonContainer">
           <!--Take Photo -->
           <ion-button color="secondary" @click="takePhoto(chosenCocktail)">
-            <ion-icon :icon="camera"></ion-icon>
+            <ion-icon :icon="camera" slot="icon-only"></ion-icon>
+          </ion-button>
+          <!--Favourise Cocktail -->
+          <ion-button
+            color="success"
+            @click="doFavouriseCocktail(chosenCocktail)"
+          >
+            <ion-icon
+              v-if="chosenCocktail.favourite == true"
+              slot="icon-only"
+              :icon="star"
+              class="icon-star-true"
+            ></ion-icon>
+            <ion-icon
+              v-else
+              slot="icon-only"
+              :icon="star"
+              class="icon-star-false"
+            ></ion-icon>
           </ion-button>
           <!--Next Cocktail-->
-          <ion-button color="success" @click="doShake()"
+          <ion-button color="primary" @click="doShake()"
             >Shake again</ion-button
           >
         </div>
@@ -109,7 +131,7 @@ import {
   IonButton,
   IonImg,
 } from "@ionic/vue";
-import { camera } from "ionicons/icons";
+import { camera, star } from "ionicons/icons";
 export default {
   name: "Shake",
   components: {
@@ -137,10 +159,10 @@ export default {
   },
   methods: {
     doShake: function () {
-      const {fetchRandomCocktail} = useStorage();
+      const { fetchRandomCocktail } = useStorage();
       window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
-      if(Math.random() > 0.8){
-       fetchRandomCocktail();
+      if (Math.random() > 0.8) {
+        fetchRandomCocktail();
       }
       this.chosenCocktail =
         this.cocktails[Math.floor(Math.random() * this.cocktails.length)];
@@ -148,11 +170,17 @@ export default {
     },
   },
   setup() {
-    const { takePhoto } = useStorage();
+    const { takePhoto, favouriseCocktail } = useStorage();
+
+    const doFavouriseCocktail = async (cocktail) => {
+      favouriseCocktail(cocktail);
+    };
 
     return {
-      camera,
+      doFavouriseCocktail,
       takePhoto,
+      camera,
+      star,
     };
   },
 };
@@ -202,5 +230,17 @@ ion-img.bigimage {
 }
 ion-button {
   margin: 10px;
+}
+.icon-star-false {
+  color: rgb(0, 0, 0);
+}
+.icon-star-true {
+  color: rgb(255, 238, 0);
+}
+.start-icon{
+  margin: auto;
+  max-width: 80%;
+  height: auto;
+  border-radius: 5%;
 }
 </style>
