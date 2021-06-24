@@ -15,10 +15,26 @@ Die Autoren des Projekts warnen vor den Schäden, die Alkohol anrichtet, und üb
 Alle Cocktailrezepte dienen nur zur Information.
 Bei der Erstellung dieses Projekts wurden keine Food-Blogger, Barkeeper oder Programmierer geschädigt.
 
-## Download
-- [Android Release APK](android/app/release/app-release.apk)
-- [Android Debug APK](android/app/build/outputs/apk/debug/app-debug.apk)
+## Releases
+Übersicht aller [Releases](/releases). Downloade die App von dort.
 
+- Version 1.1
+  - Favourisieren aus Shake-Sicht möglich
+  - Logo auf Startseite
+  - kleine Verbesserungen und Bugfixes
+- Version 1.0
+  - grundlegende Funktionen implementiert
+  - editieren nicht möglich
+
+## Open Bugs, Issues & ToDos
+- Shake: Scroll-to-top funktioniert nicht
+- New Cocktail
+  - Zutat verschwindet bei hinzufügen einer neuen Reihe
+- Edit Cocktails
+  - Cocktail Zutat zeigen
+  - Speichern ermöglichen
+- API Key
+  - Key nicht gespeichert
 
 ## Quellen und Bibliotheken
 - die [CocktailDB](https://www.thecocktaildb.com/) API; der eigene API Schlüssel kann in der App gespeichert werden
