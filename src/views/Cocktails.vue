@@ -9,8 +9,7 @@
       <ion-header collapse="condense">
         <ion-toolbar>
           <ion-title size="large"
-            >Cocktaillist
-            {{ cocktails ? "#" + cocktails.length : "#0" }}</ion-title
+            >Cocktails {{ cocktails ? "#" + cocktails.length : "please restore" }}</ion-title
           >
         </ion-toolbar>
       </ion-header>
