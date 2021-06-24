@@ -1,27 +1,25 @@
 {
     "name": "cocktail-shaker",
     "short_name": "CS",
+    "description": "shake your way to a new cocktail",
     "theme_color": "#4DBA87",
     "icons": [{
             "src": "./img/favicon.ico",
             "sizes": "32x32",
-            "type": "image/png",
-            "purpose": "maskable"
+            "type": "image/png"
         },
         {
             "src": "./img/icon.png",
             "sizes": "32x32",
-            "type": "image/png",
-            "purpose": "maskable"
+            "type": "image/png"
         },
         {
             "src": "./img/splash.png",
             "sizes": "128x128",
-            "type": "image/png",
-            "purpose": "maskable"
+            "type": "image/png"
         }
     ],
-    "start_url": ".",
+    "start_url": "/",
     "display": "standalone",
-    "background_color": "#000000"
+    "background_color": "rgb(202, 0, 152)"
 }
