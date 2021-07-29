@@ -1,13 +1,14 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "cocktailShakerApp",
-  "bundledWebRuntime": false,
-  "npmClient": "yarn",
-  "webDir": "dist",
-  "plugins": {
-    "SplashScreen": {
-      "launchShowDuration": 0
-    }
-  },
-  "cordova": {}
+    "appId": "cocktail.shaker.app",
+    "appName": "cocktailShakerApp",
+    "bundledWebRuntime": false,
+    "npmClient": "yarn",
+    "webDir": "dist",
+    "plugins": {
+        "SplashScreen": {
+            "launchShowDuration": 0
+        }
+    },
+    "cordova": {},
+    "linuxAndroidStudioPath": "/home/robert/Dokumente/Programme/android-studio/bin/studio.sh"
 }

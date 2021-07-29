@@ -8,8 +8,7 @@ All the cocktail recipes are for information only.
 No food bloggers, bartenders or programmers were harmed in the making of this project.
 
 ## Download
-- [Android Release APK](android/app/release/app-release.apk)
-- [Android Debug APK](android/app/build/outputs/apk/debug/app-debug.apk)
+Download the ready app from [releases](/releases) page
 
 ## Contribution
 - the (CocktailDB)[https://www.thecocktaildb.com/] API; you can add your own API Key
