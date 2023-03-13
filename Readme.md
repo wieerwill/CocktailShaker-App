@@ -1,6 +1,9 @@
 # CocktailShaker App
 [English Readme](Readme-EN.md)
 
+Dieses Projekt unterstützt Node bis zur Version 17. 
+
+
 Ein Projekt für die Veranstaltung [Content Verwertungsmodelle und ihre Umsetzung in mobilen Systemen](https://www.tu-ilmenau.de/modultafeln/Informatik/Bachelor/2013/fach/13137/) unter Dr. Jürgen Nützel.
 
 Für den Rahmen der App war vorgegeben:

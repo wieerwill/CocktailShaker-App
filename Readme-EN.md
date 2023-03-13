@@ -1,6 +1,8 @@
 # CocktailShaker App
 Project in the context of the event [Content Exploitation Models and their Implementation in Mobile Systems](https://www.tu-ilmenau.de/modultafeln/Informatik/Bachelor/2013/fach/13137/) under Dr. Jürgen Nützel
 
+This Project only supports NODE Version < 18.
+
 ## Warning
 The project is not commercial. It is just a report of a private event. All the information, resources or brand names found in the text or appearing in the photos are provided for information and demonstration purposes only. Any types of direct or indirect marketing are not assumed.
 The authors of the project warn about the damage alcohol does and don't take any responsibility for a result of the use of any content posted.
