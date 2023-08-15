@@ -83,7 +83,6 @@
                 >{{ ingred.name }}</ion-select-option
               >
             </ion-select>
-            <p>{{ingredient.ingredient === cocktail.ingredients[index].ingredient}}</p>
 
             <ion-icon
               :icon="trash"
@@ -228,7 +227,7 @@ export default {
 
     const doEditCocktail = async (cocktail) => {
       //console.log("editing: ", cocktail);
-      cocktail?cocktail:false;
+      console.log(cocktail?cocktail:false);
       //editCocktail(cocktail);
       //router.push("/tabs/Cocktails")
     };
